@@ -30,8 +30,6 @@ body {
 
 .main-content {
   color: #12325c;
-  width: 70%;
-  padding: none;
 };
 
 .main-content h1,
@@ -39,4 +37,11 @@ body {
 .main-content h3 {
   font-weight: bold;
   color: #12325c;
+};
+
+@media screen and (min-width: 64em) {
+  .main-content {
+    width: 70%;
+    padding: none;
+  }
 };
