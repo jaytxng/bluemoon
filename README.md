@@ -4,7 +4,18 @@ You can use the [editor on GitHub](https://github.com/jaytongcodes/bluemoon/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Blue Moon](http://i.imgur.com/Lmf6bLv.png)
+![Summer on the Blue Moon](http://i.imgur.com/Lmf6bLv.png)
+![Summer on the Blue Moon](http://i.imgur.com/G9BE0I7.png)
+![Summer on the Blue Moon](http://i.imgur.com/VvjXWay.png)
+![Summer on the Blue Moon](http://i.imgur.com/oU9ns9M.png)
+![Summer on the Blue Moon](http://i.imgur.com/C6dMFru.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/TvnYeqp.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/dVB1Jr3.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/mr96ydh.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/pPvY7t5.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/PrThK3j.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/d5NwyVm.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/1dtF77y.jpg)
 
 ### Markdown
 
