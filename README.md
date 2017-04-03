@@ -1,13 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jaytongcodes/bluemoon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Stage 1
 
 ![Summer on the Blue Moon](http://i.imgur.com/Lmf6bLv.png)
+
+## Stage 2
+
 ![Summer on the Blue Moon](http://i.imgur.com/G9BE0I7.png)
+
+## Euro Booster
+
 ![Summer on the Blue Moon](http://i.imgur.com/VvjXWay.png)
+
+## Payload
+
 ![Summer on the Blue Moon](http://i.imgur.com/oU9ns9M.png)
+
 ![Summer on the Blue Moon](http://i.imgur.com/C6dMFru.jpg)
 ![Summer on the Blue Moon](http://i.imgur.com/TvnYeqp.jpg)
 ![Summer on the Blue Moon](http://i.imgur.com/dVB1Jr3.jpg)
