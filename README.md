@@ -1,10 +1,10 @@
 ## Stage 1
 
-![Summer on the Blue Moon](http://i.imgur.com/Lmf6bLv.png)
+![Summer on the Blue Moon](http://i.imgur.com/xuXyJmr.png)
 
 ## Stage 2
 
-![Summer on the Blue Moon](http://i.imgur.com/G9BE0I7.png)
+![Summer on the Blue Moon](http://i.imgur.com/2qWxBEC.png)
 
 ## Euro Booster
 
@@ -12,7 +12,7 @@
 
 ## Payload
 
-![Summer on the Blue Moon](http://i.imgur.com/oU9ns9M.png)
+![Summer on the Blue Moon](http://i.imgur.com/vxjrBfk.png)
 
 ![Summer on the Blue Moon](http://i.imgur.com/C6dMFru.jpg)
 ![Summer on the Blue Moon](http://i.imgur.com/TvnYeqp.jpg)
