@@ -28,6 +28,9 @@ body {
   background-image: linear-gradient(120deg, #12325c, #ede0ca);
 };
 
-.main-content {
+.main-content,
+h1,
+h2,
+h3 {
   color: #12325c;
 }
