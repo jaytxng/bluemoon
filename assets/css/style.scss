@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  background-image: none;
+};
+
 body {
   background-image: linear-gradient(120deg, #11325b, #ede0ca);
 };
