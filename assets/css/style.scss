@@ -10,7 +10,10 @@
 
 .logo {
   background: url(http://i.imgur.com/AhgxHcg.png) no-repeat center center fixed;
-  background: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   width: 100%;
   height: 100px;
 };
