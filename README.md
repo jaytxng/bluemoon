@@ -1,3 +1,12 @@
+![Summer on the Blue Moon](http://i.imgur.com/C6dMFru.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/TvnYeqp.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/dVB1Jr3.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/mr96ydh.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/pPvY7t5.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/PrThK3j.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/d5NwyVm.jpg)
+![Summer on the Blue Moon](http://i.imgur.com/1dtF77y.jpg)
+
 ## Stage 1
 
 ![Summer on the Blue Moon](http://i.imgur.com/xuXyJmr.png)
@@ -13,15 +22,6 @@
 ## Payload
 
 ![Summer on the Blue Moon](http://i.imgur.com/vxjrBfk.png)
-
-![Summer on the Blue Moon](http://i.imgur.com/C6dMFru.jpg)
-![Summer on the Blue Moon](http://i.imgur.com/TvnYeqp.jpg)
-![Summer on the Blue Moon](http://i.imgur.com/dVB1Jr3.jpg)
-![Summer on the Blue Moon](http://i.imgur.com/mr96ydh.jpg)
-![Summer on the Blue Moon](http://i.imgur.com/pPvY7t5.jpg)
-![Summer on the Blue Moon](http://i.imgur.com/PrThK3j.jpg)
-![Summer on the Blue Moon](http://i.imgur.com/d5NwyVm.jpg)
-![Summer on the Blue Moon](http://i.imgur.com/1dtF77y.jpg)
 
 ### Markdown
 
