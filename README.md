@@ -1,6 +1,4 @@
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### SUMMER ON THE BLUE MOON
 
 ![Summer on the Blue Moon](http://i.imgur.com/C6dMFru.jpg)
 ![Summer on the Blue Moon](http://i.imgur.com/TvnYeqp.jpg)
