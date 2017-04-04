@@ -7,7 +7,7 @@
 ![Summer on the Blue Moon](http://i.imgur.com/d5NwyVm.jpg)
 ![Summer on the Blue Moon](http://i.imgur.com/1dtF77y.jpg)
 
-## SUMMER ON THE BLUE MOON
+# SUMMER ON THE BLUE MOON
 
 ## Stage 1
 
