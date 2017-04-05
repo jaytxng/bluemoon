@@ -12,24 +12,28 @@
 ## Stage 1
 
 ![Summer on the Blue Moon](http://i.imgur.com/xuXyJmr.png)
-Stage 1 contains 123 keys to fit the standard 60%, TKL, or full-sized layouts for both ANSI and ISO. Notable inclusions are the barred homing F&J, the inclusion of the BIG-ASS Enter key, UK ISO keys, and alternate color colors.
+
+Stage 1 contains 123 keys to fit the standard 60%, TKL, or full-sized layouts for both ANSI and ISO. Notable inclusions are the barred homing F&J, UK ISO keys, and alternate color standard keys.
 
 
 ## Stage 2
 
 ![Summer on the Blue Moon](http://i.imgur.com/2qWxBEC.png)
+
 Stage 2 provides the keycaps needed to cover non-standard layouts such as Ergodox, Planck, Preonic, 65%, Winkeyless, FC660M or Clueboard, Infinity 60% Hacker, 1800 layouts (such as the ZZ96 or the Duck Lightsaver), and the HHKB. We've intentionally grouped it this way to provide our explorers the flexibility to take this keyset to any of these compatible keyboard layouts they may want to venture towards.
 
 
 ## Euro Booster
 
 ![Summer on the Blue Moon](http://i.imgur.com/VvjXWay.png)
+
 For our fellow European explorers, you can launch with this add-on to cover your Danish, Finnish, German, Norwegian, Spanish, Swedish and/or French keyboards. We've intentionally grouped it this way to
 
 
 ## Payload
 
 ![Summer on the Blue Moon](http://i.imgur.com/vxjrBfk.png)
+
 The cherry on top of the entire rocket comes with plenty of novelties and mono legends. We also tribute two 2.25U Enter keys with the iconic metal weave designed for the moon lander's wheels.
 
 
