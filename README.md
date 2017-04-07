@@ -38,9 +38,7 @@ The cherry on top of the entire rocket comes with plenty of novelties and mono l
 
 
 Minimum layout coverage
-
 ISO keyboards: Stage 1
-
 Standard TKL: Stage 1
 Standard 60%: Stage 1
 Fullsize keyboard: Stage 1
