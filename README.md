@@ -39,18 +39,18 @@ The cherry on top of the entire rocket comes with plenty of novelties and mono l
 
 Minimum layout coverage
 <br>ISO keyboards: Stage 1
-Standard TKL: Stage 1
-Standard 60%: Stage 1
-Fullsize keyboard: Stage 1
-Planck or Preonic: Stage 1 + Stage 2
-JD40, MiniVan,: Stage 1 + Stage 2
-HHKB-like keyboard (Duck Viper, Duck Eagle, some GH60 layouts, some KMAC Happy layouts): Stage 1 + Stage 2
-Filco Minila: Stage 1 + Stage 2 + your own 3U spacebar
-Infinity 60% Hacker/Standard: Stage 1 + Stage 2
-Whitefox: Stage 1 + Stage 2
-Winkeyless keyboard: Stage 1 + Stage 2
-Duck Octagon/MK84/Keycool 84/Various 75%: Stage 1 + Stage 2
-Corsair Strafe and Logitech G710: Stage 1 + you'll need to use your stock 6.5U Space bar
+<br>Standard TKL: Stage 1
+<br>Standard 60%: Stage 1
+<br>Fullsize keyboard: Stage 1
+<br>Planck or Preonic: Stage 1 + Stage 2
+<br>JD40, MiniVan,: Stage 1 + Stage 2
+<br>HHKB-like keyboard (Duck Viper, Duck Eagle, some GH60 layouts, some KMAC Happy layouts): Stage 1 + Stage 2
+<br>Filco Minila: Stage 1 + Stage 2 + your own 3U spacebar
+<br>Infinity 60% Hacker/Standard: Stage 1 + Stage 2
+<br>Whitefox: Stage 1 + Stage 2
+<br>Winkeyless keyboard: Stage 1 + Stage 2
+<br>Duck Octagon/MK84/Keycool 84/Various 75%: Stage 1 + Stage 2
+<br>Corsair Strafe and Logitech G710: Stage 1 + you'll need to use your stock 6.5U Space bar
 
 Lightspeed not fast enough? You can also go Ludicrous Speed.
 
